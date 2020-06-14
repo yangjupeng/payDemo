@@ -21,4 +21,8 @@ public class PayServiceTest extends PayApplicationTests {
     public void test1(){
         System.out.println("local_dev1_1分支添加的方法");
     }
+    @Test
+    public void test2(){
+        System.out.println("local_dev1_1分支自己开发");
+    }
 }
