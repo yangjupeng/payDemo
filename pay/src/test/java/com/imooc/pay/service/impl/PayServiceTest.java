@@ -19,4 +19,6 @@ public class PayServiceTest extends PayApplicationTests {
     public void test(){}
     @Test
     public void test1(){}
+    @Test
+    public void test2(){};
 }
